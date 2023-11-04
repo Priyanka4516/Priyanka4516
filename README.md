@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**Priyanka4516/Priyanka4516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ENGINEER | DEVELOPER
 
-Here are some ideas to get you started:
+## My life Mantra
+One Life No Regrets 💕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My values
+💖 Trust<br>
+🌟 Always a will to learn<br>
+🍏 Beginner's mindset and curiosity<br>
+🙌 Shared norms<br>
+🚀 Elevate the underrepresented
+
+## You can contact me in these ways
+⬅ See here 🙃
