@@ -1,6 +1,6 @@
 # Hello World 👋
 
-ENGINEER | DEVELOPER
+ENGINEE | SOFTWARE DEVELOPER
 
 ## My life Mantra
 One Life No Regrets 
