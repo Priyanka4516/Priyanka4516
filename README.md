@@ -3,7 +3,7 @@
 ENGINEER | DEVELOPER
 
 ## My life Mantra
-One Life No Regrets 💕
+One Life No Regrets 
 
 ## My values
 🌟 Always a will to learn<br>
